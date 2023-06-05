@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ABMArticulosModel1StoreContainer" CdmEntityContainer="ABMArticulosEntities1">
+    <EntitySetMapping Name="Articulos">
+      <EntityTypeMapping TypeName="ABMArticulosModel1.Articulos">
+        <MappingFragment StoreEntitySet="Articulos">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="fechaAlta" ColumnName="fechaAlta" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Articulos_Stock">
+      <EntityTypeMapping TypeName="ABMArticulosModel1.Articulos_Stock">
+        <MappingFragment StoreEntitySet="Articulos_Stock">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idArticulo" ColumnName="idArticulo" />
+          <ScalarProperty Name="stock" ColumnName="stock" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
