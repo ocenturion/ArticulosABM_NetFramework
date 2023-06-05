@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABMArticulos_NetFramework_Web", "ABMArticulos_NetFramework_Web\ABMArticulos_NetFramework_Web.csproj", "{0491E2B9-9863-4FEC-B4F3-EF83771DCFB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABMArticulos_NetFramework_API", "ABMArticulos_NetFramework_API\ABMArticulos_NetFramework_API.csproj", "{114C7D5F-4655-4F15-AEFD-19730673A6D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0491E2B9-9863-4FEC-B4F3-EF83771DCFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0491E2B9-9863-4FEC-B4F3-EF83771DCFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0491E2B9-9863-4FEC-B4F3-EF83771DCFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0491E2B9-9863-4FEC-B4F3-EF83771DCFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114C7D5F-4655-4F15-AEFD-19730673A6D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114C7D5F-4655-4F15-AEFD-19730673A6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114C7D5F-4655-4F15-AEFD-19730673A6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114C7D5F-4655-4F15-AEFD-19730673A6D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36A719C5-B66A-4C23-90DB-7B925C53786B}
+	EndGlobalSection
+EndGlobal
