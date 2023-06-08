@@ -7,18 +7,37 @@
 
     <div class="container m-t-5">
         <div class="row">
+            <div class="col-lg-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Herramientas
+                    </div>
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-lg-11">
+                                <a href="ImprimirArticulos.aspx" data-toggle="tooltip" title="Generar reporte PDF" class="btn btn-danger" target="_blank">
+                                    <i class="bi bi-file-earmark-pdf"></i>PDF
+                                </a>
+                                <a href="ImprimirArticulos.aspx?a=1" data-toggle="tooltip" title="Generar reporte EXCEL" class="btn btn-success">
+                                    <i class="bi bi-file-earmark-excel"></i>EXCEL
+                                </a>
+                            </div>
+                            <div class="col-lg-1">
+                                <button id="btnAgregarArt" class="btn btn-primary btnAdd" data-toggle="tooltip" title="Agregar articulo">
+                                    <i class="bi bi-plus-lg"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
             <div class="col-md-12">
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <div class="row">
-                            <div class="col-lg-11">
-                                Articulos
-                            </div>
-                            <div class="col-lg-1 text-center">
-                                <button id="btnAgregarArt" class="btn btn-xs btn-success btnAdd" data-toggle="tooltip" title="Agregar articulo">
-                                    <i class="bi bi-plus-lg"></i>
-                                </button>
-                            </div>
+                            Articulos
                         </div>
                     </div>
                     <div class="panel-body">
