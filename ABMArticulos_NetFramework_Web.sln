@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABMArticulos_NetFramework_W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABMArticulos_NetFramework_API", "ABMArticulos_NetFramework_API\ABMArticulos_NetFramework_API.csproj", "{114C7D5F-4655-4F15-AEFD-19730673A6D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABMArticulos_NetFramework_Test", "ABMArticulos_NetFramework_Test\ABMArticulos_NetFramework_Test.csproj", "{FBF5B274-FA1E-4406-9B06-698E4438A1F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{114C7D5F-4655-4F15-AEFD-19730673A6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{114C7D5F-4655-4F15-AEFD-19730673A6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{114C7D5F-4655-4F15-AEFD-19730673A6D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF5B274-FA1E-4406-9B06-698E4438A1F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF5B274-FA1E-4406-9B06-698E4438A1F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF5B274-FA1E-4406-9B06-698E4438A1F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF5B274-FA1E-4406-9B06-698E4438A1F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
