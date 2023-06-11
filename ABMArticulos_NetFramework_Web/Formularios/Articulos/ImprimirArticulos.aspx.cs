@@ -7,6 +7,7 @@ using Microsoft.Reporting.WebForms;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using ABMArticulos_NetFramework_API.Controladores;
+using ABMArticulos_NetFramework_API.Modelo;
 
 namespace ABMArticulos_NetFramework_Web.Formularios.Articulos
 {
@@ -76,7 +77,8 @@ namespace ABMArticulos_NetFramework_Web.Formularios.Articulos
             }
             catch (Exception ex)
             {
-                //Log.EscribirSQL((int)Session["Login_IdUser"], "ERROR", "Error generando reporte de Presupuesto. " + ex.Message);
+                Log.EscribirLogSql(1, "ERROR", "Error generando reporte: " + ex.Message);
+
             }
         }
     }

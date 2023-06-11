@@ -97,5 +97,27 @@ namespace ABMArticulos_NetFramework_API.AccesoDatos
                 DesConectar();
             }
         }
+
+        public SqlCommand ejecQuery(SqlCommand cmd)
+        {
+            int resp = 0;
+            try
+            {
+
+                cmd.Connection = this.ConnectionBD;
+                cmd.CommandTimeout = 60;
+                Conectar();
+                resp = cmd.ExecuteNonQuery();
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+            finally
+            {
+                DesConectar();
+            }
+            return cmd;
+        }
     }
 }

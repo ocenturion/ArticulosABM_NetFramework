@@ -54,6 +54,7 @@
     <Compile Include="Controladores\ControladorArticulos.cs" />
     <Compile Include="Modelo\Articulo.cs" />
     <Compile Include="Modelo\Articulo_Stock.cs" />
+    <Compile Include="Modelo\Log.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

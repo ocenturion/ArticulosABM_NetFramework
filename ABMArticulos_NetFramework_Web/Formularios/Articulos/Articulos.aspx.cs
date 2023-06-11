@@ -39,6 +39,7 @@ namespace ABMArticulos_NetFramework_Web.Formularios.Articulos
             }
             catch (Exception ex)
             {
+                Log.EscribirLogSql(1, "ERROR", "Error: " + ex.Message);
 
             }
         }
@@ -97,8 +98,9 @@ namespace ABMArticulos_NetFramework_Web.Formularios.Articulos
                 phArticulos.Controls.Add(tr);
 
             }
-            catch (Exception e)
+            catch (Exception ex)
             {
+                Log.EscribirLogSql(1, "ERROR", "Error: " + ex.Message);
 
             }
         }
@@ -116,9 +118,11 @@ namespace ABMArticulos_NetFramework_Web.Formularios.Articulos
                     ScriptManager.RegisterStartupScript(this, GetType(), "OpenNewTab", script, true);
                     CargarArticulos();
                 }
+
             }
             catch (Exception ex)
             {
+                Log.EscribirLogSql(1, "ERROR", "Error: " + ex.Message);
 
             }
         }

@@ -4,25 +4,14 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <div class="col-md-12">
         <div class="widget stacked">
-
             <div class="widget-header">
                 <i class="icon-wrench"></i>
                 <h3>Reportes</h3>
             </div>
-            <!-- /widget-header -->
-
             <div class="widget-content">
-                
                 <rsweb:reportviewer id="ReportViewer1" width="100%" runat="server" font-names="Verdana" font-size="8pt" waitmessagefont-names="Verdana" waitmessagefont-size="14pt" sizetoreportcontent="True">
-    <%--<asp:ScriptManager ID="ScriptManager1" runat="server">
-         </asp:ScriptManager>--%>
-
-                </rsweb:reportviewer>
-                   
+                </rsweb:reportviewer>                   
             </div>
-            <!-- /widget-content -->
-
         </div>
-
     </div>
 </asp:Content>

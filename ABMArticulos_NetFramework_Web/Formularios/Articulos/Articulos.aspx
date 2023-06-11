@@ -1,10 +1,6 @@
 ﻿<%@ Page Title="Articulos" Language="C#" AutoEventWireup="true" MasterPageFile="~/Site.Master" CodeBehind="Articulos.aspx.cs" Inherits="ABMArticulos_NetFramework_Web.Formularios.Articulos.Articulos" %>
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
-    <%--boton agregar--%>
-    <%--buscador--%>
-    <%--tabla con articulos--%>
-
     <div class="container m-t-5">
         <div class="row">
             <div class="col-lg-12">
@@ -49,7 +45,7 @@
                         </div>
                         <div class="row">
                             <div class="col-lg-12">
-                                <table class="table" id="dt-articulos">
+                                <table class="table table-striped" id="dt-articulos">
                                     <thead>
                                         <tr>
                                             <th>Descripcion</th>

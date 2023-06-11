@@ -10,6 +10,8 @@ C:\Repos\Pruebas\ABMArticulos_NetFramework_Web\ABMArticulos_NetFramework_API\bin
 C:\Repos\Pruebas\ABMArticulos_NetFramework_Web\ABMArticulos_NetFramework_API\bin\Debug\EntityFramework.xml
 C:\Repos\Pruebas\ABMArticulos_NetFramework_Web\ABMArticulos_NetFramework_API\bin\Debug\EntityFramework.SqlServer.xml
 C:\Repos\Pruebas\ABMArticulos_NetFramework_Web\ABMArticulos_NetFramework_API\obj\Debug\ABMArticulos_NetFramework_API.csproj.CopyComplete
+C:\Repos\Pruebas\ABMArticulos_NetFramework\ABMArticulos_NetFramework_API\obj\Debug\ABMArticulos_NetFramework_API.csproj.AssemblyReference.cache
+C:\Repos\Pruebas\ABMArticulos_NetFramework\ABMArticulos_NetFramework_API\obj\Debug\ABMArticulos_NetFramework_API.csproj.CoreCompileInputs.cache
 C:\Repos\Pruebas\ABMArticulos_NetFramework\ABMArticulos_NetFramework_API\bin\Debug\ABMArticulos_NetFramework_API.dll.config
 C:\Repos\Pruebas\ABMArticulos_NetFramework\ABMArticulos_NetFramework_API\bin\Debug\ABMArticulos_NetFramework_API.dll
 C:\Repos\Pruebas\ABMArticulos_NetFramework\ABMArticulos_NetFramework_API\bin\Debug\ABMArticulos_NetFramework_API.pdb
@@ -17,6 +19,6 @@ C:\Repos\Pruebas\ABMArticulos_NetFramework\ABMArticulos_NetFramework_API\bin\Deb
 C:\Repos\Pruebas\ABMArticulos_NetFramework\ABMArticulos_NetFramework_API\bin\Debug\EntityFramework.SqlServer.dll
 C:\Repos\Pruebas\ABMArticulos_NetFramework\ABMArticulos_NetFramework_API\bin\Debug\EntityFramework.xml
 C:\Repos\Pruebas\ABMArticulos_NetFramework\ABMArticulos_NetFramework_API\bin\Debug\EntityFramework.SqlServer.xml
-C:\Repos\Pruebas\ABMArticulos_NetFramework\ABMArticulos_NetFramework_API\obj\Debug\ABMArticulos_NetFramework_API.csprojResolveAssemblyReference.cache
+C:\Repos\Pruebas\ABMArticulos_NetFramework\ABMArticulos_NetFramework_API\obj\Debug\ABMArticulos_NetFramework_API.csproj.CopyComplete
 C:\Repos\Pruebas\ABMArticulos_NetFramework\ABMArticulos_NetFramework_API\obj\Debug\ABMArticulos_NetFramework_API.dll
 C:\Repos\Pruebas\ABMArticulos_NetFramework\ABMArticulos_NetFramework_API\obj\Debug\ABMArticulos_NetFramework_API.pdb

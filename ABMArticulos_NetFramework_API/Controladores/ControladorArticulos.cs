@@ -27,6 +27,7 @@ namespace ABMArticulos_NetFramework_API.Controladores
             }
             catch (Exception e)
             {
+                Log.EscribirLogSql(1, "ERROR", "Error: " + e.Message);
                 return null;
             }
         }
@@ -51,6 +52,7 @@ namespace ABMArticulos_NetFramework_API.Controladores
             }
             catch (Exception e)
             {
+                Log.EscribirLogSql(1, "ERROR", "Error: " + e.Message);
                 return null;
             }
         }
@@ -83,6 +85,7 @@ namespace ABMArticulos_NetFramework_API.Controladores
             }
             catch (Exception ex)
             {
+                Log.EscribirLogSql(1, "ERROR", "Error: " + ex.Message);
                 return -1;
             }
         }
@@ -114,6 +117,8 @@ namespace ABMArticulos_NetFramework_API.Controladores
             }
             catch (Exception ex)
             {
+                Log.EscribirLogSql(1, "ERROR", "Error: " + ex.Message);
+
                 return -1;
             }
         }
@@ -132,6 +137,8 @@ namespace ABMArticulos_NetFramework_API.Controladores
             }
             catch (Exception ex)
             {
+                Log.EscribirLogSql(1, "ERROR", "Error: " + ex.Message);
+
                 return -1;
             }
         }
@@ -171,6 +178,8 @@ namespace ABMArticulos_NetFramework_API.Controladores
             }
             catch (Exception ex)
             {
+                Log.EscribirLogSql(1, "ERROR", "Error: " + ex.Message);
+
                 return -1;
             }
         }
@@ -210,6 +219,8 @@ namespace ABMArticulos_NetFramework_API.Controladores
             }
             catch (Exception ex)
             {
+                Log.EscribirLogSql(1, "ERROR", "Error: " + ex.Message);
+
                 return -1;
             }
         }

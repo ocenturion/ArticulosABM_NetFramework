@@ -1,4 +1,5 @@
 ﻿using ABMArticulos_NetFramework_API.Controladores;
+using ABMArticulos_NetFramework_API.Modelo;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -14,7 +15,7 @@ namespace ABMArticulos_NetFramework_Web.Formularios.Articulos
     public partial class ArticulosABM : System.Web.UI.Page
     {
         ControladorArticulos cArticulo = new ControladorArticulos();
-        private string id;
+
         protected void Page_Load(object sender, EventArgs e)
         {
             
@@ -33,6 +34,8 @@ namespace ABMArticulos_NetFramework_Web.Formularios.Articulos
             }
             catch (Exception ex)
             {
+                Log.EscribirLogSql(1, "ERROR", "Error: " + ex.Message);
+
                 return null;
             }
         }
@@ -54,6 +57,8 @@ namespace ABMArticulos_NetFramework_Web.Formularios.Articulos
             }
             catch (Exception ex)
             {
+                Log.EscribirLogSql(1, "ERROR", "Error: " + ex.Message);
+
                 return null;
             }
         }
@@ -79,6 +84,7 @@ namespace ABMArticulos_NetFramework_Web.Formularios.Articulos
             }
             catch (Exception ex)
             {
+                Log.EscribirLogSql(1, "ERROR", "Error: " + ex.Message);
 
                 throw;
             }
