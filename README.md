@@ -4,7 +4,7 @@
   
 ### ⚡️Tecnologías Utilizadas
 
-<center>
+<div style="text-align: center;">
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg' width='50px' height='50px' alt='Microsoft .NET'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='50px' height='50px' alt='JavaScript'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg' width='50px' height='50px' alt='Bootstrap'>
@@ -12,7 +12,8 @@
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' width='50px' height='50px' alt='HTML5'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' width='50px' height='50px' alt='HTML5'>
 <img src='https://camo.githubusercontent.com/276ce2dc21df385028f0f2c4d8315b616f8e2162a5c54f8acaae77edddadf13d/68747470733a2f2f6361696465766f66696369616c2e6769746875622e696f2f46465f526573756d652f6173736574732f69636f6e732f6d7373716c2f6d6963726f736f66742d73716c2d7365727665722e7376673f7261773d74727565' width='50px' height='50px' alt='MS SQL SERVER'>
-</center>
+
+</div>
 </div>
 
 ---
