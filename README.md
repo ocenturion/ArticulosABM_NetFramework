@@ -4,7 +4,7 @@
   
 ### ⚡️Tecnologías Utilizadas
 
-<div style="text-align: center;">
+<div style="text-align: center;background-color: #fff;">
   
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg' width='50px' height='50px' alt='Microsoft .NET'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='50px' height='50px' alt='JavaScript'>
