@@ -5,6 +5,7 @@
 ### ⚡️Tecnologías Utilizadas
 
 <div style="text-align: center;">
+  
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg' width='50px' height='50px' alt='Microsoft .NET'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='50px' height='50px' alt='JavaScript'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg' width='50px' height='50px' alt='Bootstrap'>
