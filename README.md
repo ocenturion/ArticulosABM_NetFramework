@@ -31,3 +31,6 @@ El proyecto <strong>ABMArticulos_netFramework_api</strong> es el backend de la a
 
 El proyecto <strong>ABMArticulos_netFramework_test</strong> contiene las pruebas unitarias para validar el correcto funcionamiento de la aplicación. Se han utilizado las herramientas de pruebas integradas de .NET Framework para garantizar la calidad del código y la estabilidad del sistema.
 </div>
+
+<h3>Where to find me</h3>
+<a href="www.linkedin.com/in/oscar-centurion"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
