@@ -25,11 +25,11 @@
 
 Articulos ABM .NET Framework es una aplicación web desarrollada utilizando las tecnologías C#, HTML, CSS, JavaScript y Store Procedures. Esta solución consta de tres proyectos: <strong>ABMArticulos_netFramework_web</strong>, <strong>ABMArticulos_netFramework_api</strong> y <strong>ABMArticulos_netFramework_test</strong>.
 
-El proyecto <strong>ABMArticulos_netFramework_web</strong> es la interfaz de usuario de la aplicación, donde los usuarios pueden interactuar con el sistema para buscar y administrar artículos. Se ha utilizado HTML, CSS y JavaScript para crear una experiencia de usuario intuitiva y atractiva.
+- El proyecto <strong>ABMArticulos_netFramework_web</strong> es la interfaz de usuario de la aplicación, donde los usuarios pueden interactuar con el sistema para buscar y administrar artículos. Se ha utilizado HTML, CSS y JavaScript para crear una experiencia de usuario intuitiva y atractiva.
 
-El proyecto <strong>ABMArticulos_netFramework_api</strong> es el backend de la aplicación, que proporciona servicios web y se comunica con la base de datos utilizando Store Procedures. Se ha desarrollado en C# utilizando el framework .NET y se ha implementado una arquitectura RESTful para garantizar la escalabilidad y el rendimiento.
+- El proyecto <strong>ABMArticulos_netFramework_api</strong> es el backend de la aplicación, que proporciona servicios web y se comunica con la base de datos utilizando Store Procedures. Se ha desarrollado en C# utilizando el framework .NET y se ha implementado una arquitectura RESTful para garantizar la escalabilidad y el rendimiento.
 
-El proyecto <strong>ABMArticulos_netFramework_test</strong> contiene las pruebas unitarias para validar el correcto funcionamiento de la aplicación. Se han utilizado las herramientas de pruebas integradas de .NET Framework para garantizar la calidad del código y la estabilidad del sistema.
+- El proyecto <strong>ABMArticulos_netFramework_test</strong> contiene las pruebas unitarias para validar el correcto funcionamiento de la aplicación. Se han utilizado las herramientas de pruebas integradas de .NET Framework para garantizar la calidad del código y la estabilidad del sistema.
 </div>
 
 <h3>Where to find me</h3>
